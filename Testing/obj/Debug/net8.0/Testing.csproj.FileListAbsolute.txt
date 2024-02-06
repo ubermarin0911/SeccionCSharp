@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Examen\SeccionCSharp\Testing\obj\Debug\net8.0\Testing.csproj.AssemblyReference.cache
-C:\Users\ASUS\Documents\Examen\SeccionCSharp\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Documents\Examen\SeccionCSharp\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
-C:\Users\ASUS\Documents\Examen\SeccionCSharp\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
-C:\Users\ASUS\Documents\Examen\SeccionCSharp\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
