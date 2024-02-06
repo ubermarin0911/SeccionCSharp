@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\bin\Debug\net8.0\ProgramacionAsincronaYParalela.exe
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\bin\Debug\net8.0\ProgramacionAsincronaYParalela.deps.json
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\bin\Debug\net8.0\ProgramacionAsincronaYParalela.runtimeconfig.json
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\bin\Debug\net8.0\ProgramacionAsincronaYParalela.dll
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\bin\Debug\net8.0\ProgramacionAsincronaYParalela.pdb
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.dll
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\refint\ProgramacionAsincronaYParalela.dll
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.pdb
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ProgramacionAsincronaYParalela.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Examen\SeccionCSharp\ProgramacionAsincronaYParalela\obj\Debug\net8.0\ref\ProgramacionAsincronaYParalela.dll
